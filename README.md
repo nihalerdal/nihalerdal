@@ -8,7 +8,7 @@
    <h3>🔧 Technology & Platforms</h3>
   <div>
     <!-- Tech Stack Logos -->
-    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,swift,materialui,sqlite,github,git,vite,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,swift,materialui,sqlite,github,git,vite,vscode" />
   </div>
   
   <h3>🌱 When I'm not coding, you can find me:</h3>

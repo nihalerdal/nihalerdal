@@ -1,5 +1,5 @@
 <div align="left">
-  <h3>🙋🏻‍♀️ Hi there!</h3>
+  <h2>🙋🏻‍♀️ Hi there!</h2>
   <p>
     My name is Nihal. I'm a Software Developer passionate about JavaScript, React, and Swift.  
     I love exploring new technologies and building intuitive applications.  

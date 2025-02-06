@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <h3>🙋🏻‍♀️ Hi there!</h3>
   <p>
     My name is Nihal. I'm a Software Developer passionate about JavaScript, React, and Swift.  
